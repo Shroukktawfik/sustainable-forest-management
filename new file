@@ -1,0 +1,10 @@
+how technology can aid forest management.
+Figure 4: Add a file
+Using push and pull requests
+Once you've made changes, you'll need to push them back to GitHub and learn how to use pull requests for collaboration.
+Steps:
+1. In your terminal, navigate to your repository and type:
+git add .
+git commit -m "Your commit message"
+git push origin main
+Figure 5:
